@@ -8,6 +8,6 @@ public class Test {
         System.out.println("折剑出江湖--温华");
         System.out.println("折剑出江湖--温华");
         System.out.println("折剑出江湖--温华");
-        System.out.println("折剑出江湖--温华");
+        System.out.println("折剑出江湖--温华");System.out.println("折剑出江湖--温华");
     }
 }
